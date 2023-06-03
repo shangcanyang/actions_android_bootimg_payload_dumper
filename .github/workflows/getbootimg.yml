@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://www.cxf.asia/1.zip
+  ROM_URL: https://xiaomirom.com/download/redmi-k50g-poco-f4-gt-ingres-weekly-V14.0.23.5.29.DEV/#china-recovery
   TZ: Asia/Shanghai
 
 jobs:
